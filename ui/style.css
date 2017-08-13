@@ -19,7 +19,7 @@ body {
   width:70%;
   padding:0;
   position:relative;
-  bottom:5px;
+  bottom:15px;
 }
 .join{
   margin: 60px auto;
@@ -37,7 +37,7 @@ ul {
 li {
   margin: 0;
   list-style: none;
-  line-height:1.5em;
+  line-height:2em;
 }
 table {
   height: 40%;
