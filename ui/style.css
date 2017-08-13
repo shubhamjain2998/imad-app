@@ -16,9 +16,7 @@ body {
   position:relative;
   bottom:5px;
 }
-.header{
-    height:100px;
-}
+
 .content {
   display: inline-block;
   width:70%;
