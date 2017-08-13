@@ -20,6 +20,7 @@ body {
   padding:0;
   position:relative;
   bottom:20px;
+  top:5px;
 }
 .join{
   margin: 60px auto;
