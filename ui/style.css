@@ -13,16 +13,13 @@ body {
 .photos {
   display: inline-block;
   margin-top: 20px;
-  position:relative;
-  bottom:5px;
 }
-
 .content {
   display: inline-block;
   width:70%;
   padding:0;
   position:relative;
-  bottom:20px;
+  bottom:24px;
 }
 .join{
   margin: 60px auto;
@@ -30,6 +27,15 @@ body {
   border:2px solid #FFF;
   border-radius:10px;
   width: 90%;
+}
+.cont{
+	  margin: 60px auto;
+  padding-top:40px;
+  border:2px solid #FFF;
+  border-radius:10px;
+  width: 90%;
+  position:relative;
+  bottom:50px;
 }
 
 ul {
@@ -40,7 +46,7 @@ ul {
 li {
   margin: 0;
   list-style: none;
-  line-height:1.5em;
+  line-height:1.7em;
 }
 table {
   height: 40%;
@@ -76,7 +82,7 @@ th, td {
 }
 
 
-ul,li{
+ul,li,p{
 	color:white;
 	font-size: 20px;
   font-weight: 100;
@@ -85,6 +91,7 @@ ul,li{
   padding:0;
   text-align: center;
   text-transform: uppercase;
+  line-height:1.4em;
 }
 
 h1{
@@ -98,8 +105,8 @@ h1{
   text-align: center;
   text-transform: uppercase;
 }
-h4{
-  color:#bb77ef;
+h4,h3{
+  color:#74e8e6;
   font-family: 'Ruda', sans-serif;
   font-size: 30px;
   font-weight: 800;
@@ -127,4 +134,6 @@ a{
   font-size: 16px;
   text-transform: uppercase;
 }
-
+#lol{
+	background-color:#000000;
+}
