@@ -105,9 +105,26 @@ h4{
   font-weight: 800;
   letter-spacing:3px;
   margin: 0;
-  padding-top: 120px;
+  padding-top: 60px;
   text-align: center;
   text-transform: uppercase;
 }
-
+.header{
+	position:relative;
+	bottom:40px;
+}
+.tables{
+	position:relative;
+	bottom:20px;
+}
+.book{
+	margin-top: 30px;
+  width: 100%;
+}
+a{
+	 color:#38c9e2;
+  font-family: 'Ruda', sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+}
 
