@@ -13,6 +13,8 @@ body {
 .photos {
   display: inline-block;
   margin-top: 20px;
+  position:relative;
+  bottom:5px;
 }
 .content {
   display: inline-block;
@@ -20,7 +22,6 @@ body {
   padding:0;
   position:relative;
   bottom:20px;
-  top:5px;
 }
 .join{
   margin: 60px auto;
